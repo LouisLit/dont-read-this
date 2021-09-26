@@ -1,4 +1,3 @@
-## You're nearly there, keep going!
 
 You can use the [editor on GitHub](https://github.com/LouisLit/dont-read-this/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
